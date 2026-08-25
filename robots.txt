@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sharpsites-demo.github.io/caancare-clinic-demo/sitemap.xml
